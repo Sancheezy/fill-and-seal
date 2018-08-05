@@ -20,7 +20,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="robots" content="NOODP">
-	<meta name="description" content="Slick Shotz - The Only Legal-To-Carry Flask">
+	<meta name="description" content="Fill and Seal - The Heat Sealed Pouch Kit">
 
 	<!-- wordpress head functions -->
 	<?php wp_head(); ?>
@@ -93,7 +93,7 @@
 				<div class="padding-horizontal-15px">
 					<div class="column col-5 col-md-2">
 						<a href="http://rogersanchize.com/dev/slick-shotz" class="orange-text bold logo">
-							<h2 class="headline">Slick Shotz</h2>
+							<h2 class="headline">Fill and Seal</h2>
 						</a>
 					</div><!--end column-->
 					<div class="column col-md-10 hidden-xs">

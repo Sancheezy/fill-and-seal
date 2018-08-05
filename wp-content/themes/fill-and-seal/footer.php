@@ -3,14 +3,14 @@
 			<div class="top-row">
 				<div class="column col-12 col-md-4">
 					<div class="padding-horizontal-15px">
-						<p><span class="bold white-text brand-name">Slick Shotz</span> 
+						<p><span class="bold white-text brand-name">Fill and Seal</span> 
 							<small class="privacy-links text-right">
 								<a href="http://rogersanchize.com/dev/slick-shotz/privacy-policy" class="footer-link white-text">Privacy Policy</a> | 
 								<a href="http://rogersanchize.com/dev/slick-shotz/terms-of-use" class="footer-link white-text">Terms & Conditions</a>
 							</small>
 						</p>
 						<span class="spacer-5 block">&nbsp;</span>
-						<p class="muted-text">&copy; 2015 – <?php echo date('Y'); ?> Slick Shotz. All rights reserved.</p>
+						<p class="muted-text">&copy; 2015 – <?php echo date('Y'); ?> Fill and Seal. All rights reserved.</p>
 					</div>
 				</div>
 

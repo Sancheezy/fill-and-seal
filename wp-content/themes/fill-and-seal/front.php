@@ -10,7 +10,7 @@ get_header();
 		<div class="column col-12 col-md-6">
 			<div class="padding-horizontal-15px">
 				<!-- <img src="http://rogersanchize.com/dev/slick-shotz/wp-content/uploads/2018/05/atf-image.jpg" class="img-responsive mb-1" /> -->
-				<iframe class="atf-video" width="100%" src="https://www.youtube.com/embed/NxItyaob9x0?rel=0&amp;showinfo=0" frameborder="0" ></iframe>
+				<iframe class="atf-video" width="100%" src="https://www.youtube.com/embed/8W0TyrZwsN0?rel=0&amp;showinfo=0" frameborder="0"></iframe>
 				<p class="amazon-reviews text-center">
 					<i class="fa fa-star"></i>
 					<i class="fa fa-star"></i>
