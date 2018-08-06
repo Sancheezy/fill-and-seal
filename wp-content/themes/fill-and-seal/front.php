@@ -6,7 +6,7 @@ get_header();
 ?>
 <section class="atf wood-bg padding-vertical-4">
 	<div class="container">
-		<h1 class="headline text-center white-text bold mb-4">The <span class="orange-text">Only</span> Legal-to-Carry Flask!</h1>
+		<h1 class="headline text-center white-text bold mb-4">The <span class="orange-text">Heat Sealed</span> Pouch Kit!</h1>
 		<div class="column col-12 col-md-6">
 			<div class="padding-horizontal-15px">
 				<!-- <img src="http://rogersanchize.com/dev/slick-shotz/wp-content/uploads/2018/05/atf-image.jpg" class="img-responsive mb-1" /> -->
