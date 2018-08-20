@@ -648,50 +648,54 @@ a {
 }
 /* aesthetics.scss */
 /* line 4, sass/_partials/_aesthetics.scss */
+.atf .roger {
+  color: black;
+}
+/* line 7, sass/_partials/_aesthetics.scss */
 .atf .atf-video {
   height: 280px;
 }
-/* line 7, sass/_partials/_aesthetics.scss */
+/* line 10, sass/_partials/_aesthetics.scss */
 .atf .amazon-reviews {
   line-height: 1;
   position: relative;
   top: -5px;
 }
-/* line 12, sass/_partials/_aesthetics.scss */
+/* line 15, sass/_partials/_aesthetics.scss */
 .atf .amazon-reviews .amazon-logo {
   width: 15%;
   position: relative;
   top: 15px;
 }
-/* line 18, sass/_partials/_aesthetics.scss */
+/* line 21, sass/_partials/_aesthetics.scss */
 .atf .cta-button {
   width: 50%;
 }
 
 /* media queries */
 @media (max-width: 767px) {
-  /* line 27, sass/_partials/_aesthetics.scss */
+  /* line 30, sass/_partials/_aesthetics.scss */
   .atf .headline {
     font-size: 1.35rem;
   }
-  /* line 30, sass/_partials/_aesthetics.scss */
+  /* line 33, sass/_partials/_aesthetics.scss */
   .atf .atf-video {
     height: 220px;
   }
-  /* line 33, sass/_partials/_aesthetics.scss */
+  /* line 36, sass/_partials/_aesthetics.scss */
   .atf .headline {
     margin-bottom: .75em;
   }
-  /* line 36, sass/_partials/_aesthetics.scss */
+  /* line 39, sass/_partials/_aesthetics.scss */
   .atf .amazon-reviews {
     top: 0;
     margin-bottom: .75em;
   }
-  /* line 40, sass/_partials/_aesthetics.scss */
+  /* line 43, sass/_partials/_aesthetics.scss */
   .atf .amazon-reviews .amazon-logo {
     top: 8px;
   }
-  /* line 44, sass/_partials/_aesthetics.scss */
+  /* line 47, sass/_partials/_aesthetics.scss */
   .atf .cta-button {
     width: 93%;
   }
